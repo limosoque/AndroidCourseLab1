@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="second_activity_background_color">Enter red, green or blue</string>
+    <string name="change_color_button">Change color</string>
+</resources>
